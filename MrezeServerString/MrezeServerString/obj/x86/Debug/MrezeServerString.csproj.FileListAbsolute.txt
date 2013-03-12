@@ -1,0 +1,9 @@
+c:\users\darko\documents\visual studio 2010\Projects\MrezeServerString\MrezeServerString\bin\Debug\MrezeServerString.exe
+c:\users\darko\documents\visual studio 2010\Projects\MrezeServerString\MrezeServerString\bin\Debug\MrezeServerString.pdb
+c:\users\darko\documents\visual studio 2010\Projects\MrezeServerString\MrezeServerString\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\darko\documents\visual studio 2010\Projects\MrezeServerString\MrezeServerString\obj\x86\Debug\MrezeServerString.Form1.resources
+c:\users\darko\documents\visual studio 2010\Projects\MrezeServerString\MrezeServerString\obj\x86\Debug\MrezeServerString.Properties.Resources.resources
+c:\users\darko\documents\visual studio 2010\Projects\MrezeServerString\MrezeServerString\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\darko\documents\visual studio 2010\Projects\MrezeServerString\MrezeServerString\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\darko\documents\visual studio 2010\Projects\MrezeServerString\MrezeServerString\obj\x86\Debug\MrezeServerString.exe
+c:\users\darko\documents\visual studio 2010\Projects\MrezeServerString\MrezeServerString\obj\x86\Debug\MrezeServerString.pdb

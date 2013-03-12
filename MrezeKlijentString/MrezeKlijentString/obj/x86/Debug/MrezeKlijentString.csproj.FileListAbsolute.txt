@@ -1,0 +1,9 @@
+c:\users\darko\documents\visual studio 2010\Projects\MrezeKlijentString\MrezeKlijentString\bin\Debug\MrezeKlijentString.exe
+c:\users\darko\documents\visual studio 2010\Projects\MrezeKlijentString\MrezeKlijentString\bin\Debug\MrezeKlijentString.pdb
+c:\users\darko\documents\visual studio 2010\Projects\MrezeKlijentString\MrezeKlijentString\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\darko\documents\visual studio 2010\Projects\MrezeKlijentString\MrezeKlijentString\obj\x86\Debug\MrezeKlijentString.Form1.resources
+c:\users\darko\documents\visual studio 2010\Projects\MrezeKlijentString\MrezeKlijentString\obj\x86\Debug\MrezeKlijentString.Properties.Resources.resources
+c:\users\darko\documents\visual studio 2010\Projects\MrezeKlijentString\MrezeKlijentString\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\darko\documents\visual studio 2010\Projects\MrezeKlijentString\MrezeKlijentString\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\darko\documents\visual studio 2010\Projects\MrezeKlijentString\MrezeKlijentString\obj\x86\Debug\MrezeKlijentString.exe
+c:\users\darko\documents\visual studio 2010\Projects\MrezeKlijentString\MrezeKlijentString\obj\x86\Debug\MrezeKlijentString.pdb
