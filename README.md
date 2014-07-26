@@ -1,10 +1,22 @@
 ldsocket
 ========
 
-Class which makes communication between two C# application easy.
+Class which makes communication between two C# application in network easy.
 
 
-Example - Server
+REQUIREMENTS
+------------
+
+.NET 2.0 or higher
+
+
+INSTALATION
+-----------
+
+Add new class to your project, name it `LDSocket.cs` and paste code from `LDSocket.cs`
+
+
+EXAMPLE - SERVER
 ----------------
 
     using LDSocket;
